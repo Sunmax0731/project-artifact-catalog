@@ -1,0 +1,21 @@
+{
+  "product": {
+    "repository": "project-artifact-catalog",
+    "title": "素材・成果物カタログ"
+  },
+  "items": [
+    {
+      "id": "project-artifact-catalog-happy",
+      "title": "素材・成果物カタログ happy",
+      "status": "ready",
+      "tags": [
+        "projectmanagement"
+      ],
+      "artifactPath": "dist/happy.zip",
+      "version": "0.1.0-alpha.1",
+      "owner": "closed-alpha",
+      "usage": "closed alpha review",
+      "licenseNote": "素材・成果物カタログ の確認観点"
+    }
+  ]
+}
