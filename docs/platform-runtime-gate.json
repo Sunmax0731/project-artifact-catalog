@@ -1,0 +1,11 @@
+{
+  "product": "project-artifact-catalog",
+  "title": "素材・成果物カタログ",
+  "domain": "ProjectManagement",
+  "ideaNo": 7,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
